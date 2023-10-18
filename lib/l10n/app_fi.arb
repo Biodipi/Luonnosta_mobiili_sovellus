@@ -1,0 +1,54 @@
+{
+    "loginButton": "Kirjaudu",
+    "loginNoAccount1": "EI TUNNUKSIA? REKISTERÖIDY ",
+    "loginNoAccount2": "TÄSTÄ!",
+    "loginForgotPass1": "UNOHDITKO ",
+    "loginForgotPass2": "SALASANASI?",
+    "loginPassword": "Salasana",
+    "loginEmail": "Sähköposti",
+    "loginEmptyPassword": "Anna salasana",
+    "loginInvalidEmail":"Osoitteessa on virhe",
+
+    "resetPassSubmit": "Lähetä",
+    "resetPassReturn": "Takaisin",
+
+    "registerSubmit": "Rekisteröidy",
+    "registerReturn": "Takaisin",
+    "registerPassTooShort":"Salasanan tulee olla vähintään 8 merkkiä pitkä",
+    "registerPassNotMatch":"Salasanat eivät täsmää",
+
+    "commonError":"Jokin meni vikaan. Yritä uudelleen.",
+    "commonOK":"OK",
+    "commonSave":"Tallenna",
+    "commonExit":"Poistu",
+    "commonLicenses":"Lisenssit",
+
+    "landingWelcome":"Tervetuloa, ",
+    "landingMap":"Kartta",
+    "landingLog":"Omat merkinnät",
+    "landingCreate":"Luo merkintä",
+    "landingEdit":"Muokkaa merkintää",
+    "landingSettings": "Asetukset",
+
+    "setLocation": "Aseta sijainti",
+    "editErrorUserNotFound":"Sähköpostiosoitteen omistaja ei ole rekisteröitynyt sovellukseen.",
+    "settingsLogout":"Kirjaudu ulos",
+    "settingsDeleteAcc":"Poista tili",
+
+    "showOnMap":"Näytä kartalla",
+    
+    "editChangeImage":"Ota kuva painamalla tästä",
+    "editTitle":"Otsikko",
+    "editQuitNoSave":"Haluatko varmasti poistua tallentamatta?",
+    "editDesc":"Lisätiedot",
+    "editShare":"Jaettu käyttäjille:",
+    "editAddEmail":"Lisää sähköpostiosoite",
+    "editDelete":"Poista merkintä",
+    "editErrorSelfShare":"Et voi jakaa itsellesi",
+    "editErrorEmptyFields":"Anna otsikko ja lisätiedot",
+    "editErrorDuplicateShare":"Olet jo jakanut merkinnän tälle käyttäjälle.",
+
+    "errorNoGpsPermissionForever":"Lupaa sijainnin käytölle ei myönnetty.",
+    "errorNoGpsPermission":"Lupaa sijainnin käytölle ei myönnetty. Yritä uudelleen.",
+    "errorGPSNotEnabled":"Sijaintipalvelu on kytketty pois laitteen asetuksissa. Laita se päälle ja saat enemmän irti sovelluksestamme!"
+}

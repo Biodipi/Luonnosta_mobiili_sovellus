@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438674999979",
+    "project_id": "biodipi-luonnosta",
+    "storage_bucket": "biodipi-luonnosta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438674999979:android:9a6910dcf4aab9b39fc5ee",
+        "android_client_info": {
+          "package_name": "fi.biodipi.luonnosta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438674999979-r469vbpmsfivvini679c8d7rk1alch12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_YyvXOPYeLOQs3qUvyX2zmBMN2CxiLXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438674999979-r469vbpmsfivvini679c8d7rk1alch12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
