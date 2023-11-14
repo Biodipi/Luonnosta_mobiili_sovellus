@@ -25,7 +25,7 @@ Sovelluksen Asetuksissa voidaan Kirjautua ulos sovelluksesta sekä Poistaa tili.
 
 # Sovelluksen toteutuksessa käytetyt tekniikat:
 
-Sovellus on toteutettu Android-sovelluksena. Sovellus löytyy Googlen Play-kaupasta. Tiedot tallentuvat Firebase-tietokantaan.
+Sovellus on toteutettu Flutterilla. Sovellus löytyy Android-sovelluksena Googlen Play-kaupasta. Tiedot tallentuvat Firebase-tietokantaan.
 
 # Lisenssi:
 
