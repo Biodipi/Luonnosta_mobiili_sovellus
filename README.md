@@ -29,7 +29,7 @@ Sovellus on toteutettu Flutterilla. Sovellus löytyy Android-sovelluksena Google
 
 # Lisenssi:
 
-Tämän sovelluksen lähdekoodi on lisenssoitu MIT-lisenssillä. Lisenssin tarkemmat tiedot löytyvät [LICENSE](https://github.com/Biodibi/Luonnosta_mobiili_sovellus/blob/main/LICENSE) tiedostosta. Mikäli sovelluksessa on käytetty kolmannen osapuolen työkaluja, komponentteja tai vastaavia, noudatetaan niiden osalta ilmoitettuja lisenssiehtoja.
+Tämän sovelluksen lähdekoodi on lisenssoitu MIT-lisenssillä. Lisenssin tarkemmat tiedot löytyvät [LICENSE](https://github.com/Biodibi/Luonnosta_mobiili_sovellus/LICENSE) tiedostosta. Mikäli sovelluksessa on käytetty kolmannen osapuolen työkaluja, komponentteja tai vastaavia, noudatetaan niiden osalta ilmoitettuja lisenssiehtoja.
 
 # luonnosta_app
 
